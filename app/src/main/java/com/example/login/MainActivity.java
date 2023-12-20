@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
                 String email= edtE.getText().toString();
                 String password = edtP.getText().toString();
             }
+            // Trần Anh Quân đẹp trai
+
         });
     }
 }
